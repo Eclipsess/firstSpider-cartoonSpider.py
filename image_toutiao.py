@@ -1,3 +1,4 @@
+#配合config.py使用
 import json
 import re
 from urllib.parse import urlencode
